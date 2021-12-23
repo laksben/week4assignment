@@ -18,4 +18,4 @@ run_analysis.R  - An Rscript that does the following.
 
   From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
   
-  OutData.txt - The output dataset after 
+  OutData.txt - The output dataset after performing the above operations. 
